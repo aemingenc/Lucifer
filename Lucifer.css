@@ -1,0 +1,17 @@
+#container{
+  
+    margin: 100px 300px;
+    border:blue solid 5px;
+}
+
+h1{
+    margin-left: 60px;
+    margin-top: 0px;
+}
+#container2{
+    display: flex;
+    padding: 60px;
+    }
+p{
+    margin-left:60px;
+}    
