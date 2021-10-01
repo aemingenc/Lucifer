@@ -1,7 +1,12 @@
+
+body{
+    background-color:rgb(78, 76, 76);
+
+}
 #container{
-  
+    background-color: rgb(148, 15, 15);
     margin: 100px 300px;
-    border:blue solid 5px;
+    border:rgb(0, 0, 0) solid 5px;
 }
 
 h1{
